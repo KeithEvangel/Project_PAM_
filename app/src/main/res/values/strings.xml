@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemorySpark</string>
+    <string name="open_deck">Open Deck</string>
+    <string name="start_test">Start Test</string>
+    <string name="add_deck">Add Deck</string>
+    <string name="add_card">Add Card</string>
+    <string name="history_test">History Test</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#4A5C92</color>
+    <color name="md_theme_light_primary">#4A5C92</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#DBE1FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001651</color>
+    <color name="md_theme_light_secondary">#5A5D72</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#DEE1F9</color>
+    <color name="md_theme_light_onSecondaryContainer">#171B2C</color>
+    <color name="md_theme_light_tertiary">#76546E</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#FFD7F4</color>
+    <color name="md_theme_light_onTertiaryContainer">#2D1228</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FEFBFF</color>
+    <color name="md_theme_light_onBackground">#1B1B1F</color>
+    <color name="md_theme_light_surface">#FEFBFF</color>
+    <color name="md_theme_light_onSurface">#1B1B1F</color>
+    <color name="md_theme_light_surfaceVariant">#E3E1EC</color>
+    <color name="md_theme_light_onSurfaceVariant">#45464F</color>
+    <color name="md_theme_light_outline">#767680</color>
+    <color name="md_theme_light_inverseOnSurface">#F2F0F4</color>
+    <color name="md_theme_light_inverseSurface">#303034</color>
+    <color name="md_theme_light_inversePrimary">#B4C5FF</color>
+    <color name="md_theme_light_shadow">#000000</color>
+    <color name="md_theme_light_surfaceTint">#4A5C92</color>
+    <color name="md_theme_light_outlineVariant">#C6C5D0</color>
+    <color name="md_theme_light_scrim">#000000</color>
+
+    <color name="lightPurple">#DDE1F9</color>
+    <color name="darkPurple">#4A5C92</color>
+
+    <!-- Add these lines to map the missing colors -->
+    <color name="background_color">#FFFFFF</color> <!-- or whichever color you want -->
+    <color name="primary_color">@color/md_theme_light_primary</color>
+    <color name="primary_dark_color">@color/md_theme_light_primary</color>
+    <color name="accent_color">@color/md_theme_light_secondary</color>
+</resources>

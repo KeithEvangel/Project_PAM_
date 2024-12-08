@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768516788129",
+    "project_id": "memoryspark-1a124",
+    "storage_bucket": "memoryspark-1a124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768516788129:android:a65bf3ca9a974cecc985e0",
+        "android_client_info": {
+          "package_name": "com.example.memoryspark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVEt-unH8CiXXTTwU9eQuvmXlSfeaegfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

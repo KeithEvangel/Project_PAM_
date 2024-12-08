@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Warna solid biru tua -->
+    <solid android:color="#46558E" />
+
+    <!-- Sudut membulat -->
+    <corners android:radius="16dp" />
+</shape>
